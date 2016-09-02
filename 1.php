@@ -1,5 +1,5 @@
 <?php
 
-echp "kincai";
+echp "kincai is 大神";
 
 ?>
